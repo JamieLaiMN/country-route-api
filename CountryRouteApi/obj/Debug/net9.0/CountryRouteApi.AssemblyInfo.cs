@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CountryRouteApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c6cc3ba247ac0ae64fdaf77889c3e94d1a54fa1")]
 [assembly: System.Reflection.AssemblyProductAttribute("CountryRouteApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CountryRouteApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

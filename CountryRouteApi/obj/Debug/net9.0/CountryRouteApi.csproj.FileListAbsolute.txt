@@ -30,3 +30,4 @@
 /Users/jamie/country-route-api/CountryRouteApi/obj/Debug/net9.0/CountryRouteApi.pdb
 /Users/jamie/country-route-api/CountryRouteApi/obj/Debug/net9.0/CountryRouteApi.genruntimeconfig.cache
 /Users/jamie/country-route-api/CountryRouteApi/obj/Debug/net9.0/ref/CountryRouteApi.dll
+/Users/jamie/country-route-api/CountryRouteApi/obj/Debug/net9.0/CountryRouteApi.sourcelink.json
