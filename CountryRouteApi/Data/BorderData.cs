@@ -1,3 +1,5 @@
+namespace CountryRouteApi.Data;
+
 public class BorderData
 {
     private readonly Dictionary<string, string[]> borders = new Dictionary<string, string[]>();

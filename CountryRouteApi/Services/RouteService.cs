@@ -1,3 +1,7 @@
+using CountryRouteApi.Data;
+
+namespace CountryRouteApi.Services;
+
 public class RouteService
 {
     private readonly BorderData borderData;
