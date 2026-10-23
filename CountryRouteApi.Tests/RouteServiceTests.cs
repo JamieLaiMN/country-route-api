@@ -1,4 +1,7 @@
-﻿namespace CountryRouteApi.Tests;
+﻿using CountryRouteApi.Services;
+using CountryRouteApi.Data;
+
+namespace CountryRouteApi.Tests;
 
 public class RouteServiceTests
 {
