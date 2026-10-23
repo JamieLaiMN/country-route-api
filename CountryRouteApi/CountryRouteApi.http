@@ -1,6 +1,21 @@
 @CountryRouteApi_HostAddress = http://localhost:5003
 
-GET {{CountryRouteApi_HostAddress}}/weatherforecast/
+### Valid route to Panama
+GET {{{{CountryRouteApi_HostAddress}}}}/PAN
 Accept: application/json
 
-###
+### Valid route to Belize
+GET {{{{CountryRouteApi_HostAddress}}}}/BLZ
+Accept: application/json
+
+### Case insensitive request
+GET {{{{CountryRouteApi_HostAddress}}}}/pan
+Accept: application/json
+
+### Unsupported country
+GET {{{{CountryRouteApi_HostAddress}}}}/ABC
+Accept: application/json
+
+### Invalid country code
+GET {{{{CountryRouteApi_HostAddress}}}}/US
+Accept: application/json

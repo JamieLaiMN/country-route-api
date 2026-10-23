@@ -1,6 +1,6 @@
 public class BorderData
 {
-    Dictionary<string, string[]> borders = new Dictionary<string, string[]>();
+    private readonly Dictionary<string, string[]> borders = new Dictionary<string, string[]>();
 
     public BorderData()
     {
